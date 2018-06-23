@@ -1,3 +1,15 @@
+openbox (3.6.1-7~bpo9+1~bl1) stretch-backports; urgency=medium
+
+  * Rebuild from Debian git repository.
+
+ -- John Crawley <john@bunsenlabs.org>  Sat, 23 Jun 2018 17:26:46 +0900
+
+openbox (3.6.1-7~bpo9+1~bl) stretch-backports; urgency=medium
+
+  * Rebuild for stretch-backports.
+
+ -- John Crawley <john@bunsenlabs.org>  Fri, 22 Jun 2018 14:23:47 +0900
+
 openbox (3.6.1-7) unstable; urgency=medium
 
   * Adjust adapt-to-gsd-324.patch for plugin dropped in
